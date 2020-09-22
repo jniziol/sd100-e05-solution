@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background-image: url('background.png');
+  background-repeat: repeat;
+  color: #66200d;
+}
+
+h1, h2 {
+  margin: 0;
+}
+
+header {
+  background-color: #f0a733;
+  text-align: center;
+  padding: 20px;
+}
+
+section {
+  background:#f0a733;
+  width: 500px;
+  margin: 40px 0;
+  padding: 20px;
+  border: 2px solid #66200d;
+}
+
+.second-section {  
+  margin: 0 auto;  
+  text-align: center;
+}
+
+.second-section img {
+  margin-top: 20px;
+}
+
+.third-section { 
+  margin-left: auto;
+  margin-bottom: 40px;
+}
